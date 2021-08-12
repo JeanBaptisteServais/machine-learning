@@ -9,3 +9,5 @@ we tried linear regression (always the simplest model) then tried adding ridge a
 
 It seems that the linear regression gives good result (coupled to ridge)
 
+
+we didn't use a gridsearch neither a k-fold
